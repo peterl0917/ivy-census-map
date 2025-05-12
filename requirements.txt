@@ -1,0 +1,6 @@
+pandas
+folium
+geopandas
+shapely
+snowflake-connector-python
+voila
